@@ -1,8 +1,6 @@
 theme: minima
 title: Leon's Mini MacAdmins Blog
 description: Welcome to my not blog!
-author:
-  name: Leon Chung
-  email: "hello@leonc.info"
+author: Leon Chung
 minima:
   skin: auto
